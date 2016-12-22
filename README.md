@@ -1,2 +1,1 @@
-# Node.js-practise
-For storing some node.js basic concept code which i will be doing on practise
+I want to do hand in practise of node.js. These codes out here are th codes i go through while i practise coding js in node platform . 
