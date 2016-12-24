@@ -6,7 +6,7 @@ var rect = require('./rectangle-2');
 function solveRect(l,b) {
     console.log("Solving for rectangle with l = "
         + l + " and b = " + b);
-    rect(l,b, function(err,rectangle) {
+    rect(l,b, function(err,rectangle) {  // this third parameter is a callback fn i have supplied to node modules
         if (err) {
             console.log(err);
         }
